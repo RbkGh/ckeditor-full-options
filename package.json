@@ -1,7 +1,7 @@
 {
   "name": "@ace-rbk/ckeditor-build-full-options",
-  "version": "2.1.1",
-  "description": "CKEditor with full word options and some mathematical functions added in toolbar, subscript and superscript and others on top",
+  "version": "2.2.0",
+  "description": "CKEditor with full word options and some mathematical functions added in toolbar, subscript and superscript and other useful components on top",
   "main": "./build/ckeditor.js",
   "files": [
     "build"
@@ -24,6 +24,7 @@
     "@ckeditor/ckeditor5-media-embed": "^26.0.0",
     "@ckeditor/ckeditor5-paragraph": "^26.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^26.0.0",
+    "@ckeditor/ckeditor5-special-characters": "^26.0.0",
     "@ckeditor/ckeditor5-table": "^26.0.0",
     "@ckeditor/ckeditor5-typing": "^26.0.0"
   },

@@ -104,8 +104,8 @@
 	<script src="../build/ckeditor.js"></script>
 	<script>ClassicEditor
 			.create( document.querySelector( '.editor' )
-			// 		, {
-			//
+					, {
+
 			// 	toolbar: {
 			// 		items: [
 			// 			'heading',
@@ -129,6 +129,7 @@
 			// 			'superscript',
 			// 			'undo',
 			// 			'redo',
+			// 			'specialCharacters',
 			// 			'CKFinder'
 			// 		]
 			// 	},
@@ -147,7 +148,7 @@
 			// 			'mergeTableCells'
 			// 		]
 			// 	}
-			// }
+			}
 			)
 			.then( editor => {
 				window.editor = editor;

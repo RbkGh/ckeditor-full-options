@@ -1,5 +1,7 @@
 ## CKEditor with superscript and subscript and other mathematical functions added
-
+Demonstration  
+---
+![](https://github.com/RbkGh/ckeditor-full-options/raw/master/descriptionalImages/full-options-with-extra-functions.png)
 #Quick run example of the editor output
 
 1. Open the `sample/index.html` page in the browser.
